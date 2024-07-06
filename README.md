@@ -1,7 +1,7 @@
 
 # CS771
 
-This repository contains my lecture notes and assignment submissions made in the course CS771(2022-23 Sem. I) in a team of 5. Our team name was ML Class of '14 with the team members:
+This repository contains my lecture notes and assignment submissions made in the course [CS771]([https://www.cse.iitk.ac.in/users/purushot/courses/ml/2023-24-s/])(2022-23 Sem. I) in a team of 5. Our team name was ML Class of '14 with the team members:
 
 
 
