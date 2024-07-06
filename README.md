@@ -17,9 +17,9 @@ This repository contains my lecture notes and assignment submissions made in the
 
 ## Assignments
 
-**Assignment 1**: Decoded a system of PUFs(Physically Unclonable Functions)called CROSS-CONNECTION PUF, developed using two arbiter PUFs.
+[**Assignment 1**](docs/cs771_1.pdf): Decoded a system of PUFs(Physically Unclonable Functions)called CROSS-CONNECTION PUF, developed using two arbiter PUFs.
 
-**Assignment 2**: 
+[**Assignment 2**](docs/cs771_2.pdf): 
 
 
 
