@@ -2,10 +2,10 @@ This repository contains my assignment submissions made in the course [CS771](ht
 
 |Name|User ID|
 |:-:|:-:|
-|Pratham Garg|[Enkryp](https://github.com/Prathamg012)|
-|Dhananjay Dixit|[parinayc20](https://github.com/Dhananjay013)|
-|Ritesh Hans|[PratyushGupta0](https://github.com/hanrit)|
-|Aryan Gautam|[akhilagrawal1001](https://github.com/RishiGautam26)|
+|Pratham Garg|[Prathamg012](https://github.com/Prathamg012)|
+|Dhananjay Dixit|[Dhananjay013](https://github.com/Dhananjay013)|
+|Ritesh Hans|[hanrit](https://github.com/hanrit)|
+|Aryan Gautam|[RishiGautam26](https://github.com/RishiGautam26)|
 |Sahil Kumar (me)|[sahilkur22](https://github.com/sahilkur22)|
 ---
 
