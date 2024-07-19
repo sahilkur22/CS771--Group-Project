@@ -13,7 +13,7 @@ This repository contains my assignment submissions made in the course [CS771](ht
 ## Assignments
 In each assignment, we were given a problem statement after being taught some methods/models:
 
-+ [<u>Assignment 1:</u>](./assn1/) Exercise on using [SVMs](https://en.wikipedia.org/wiki/Support-vector_machine). We explored SGDM to solve it, but ended up submitting SCDM with a bunch of case-specific optimizations.
-+ [<u>Assignment 2:</u>](./assn2/) The problem was that of multilabel classification, with complete freedom to use whatever one wants. Our group ended up using a mix of [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree), and [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network).
++ [<u>Assignment 1:</u>](https://github.com/sahilkur22/CS771--Group-Project/tree/main/ASSIGNMENT-2) This assignment demonstrates that linear models can perfectly predict the responses of a Cross-Connection PUF (COCO-PUF) and can be accurately estimated with enough challenge-response pairs.
++ [<u>Assignment 2:</u>](https://github.com/sahilkur22/CS771--Group-Project/tree/main/ASSIGNMENT-2) This assignment involves developing an ML algorithm to predict a sequence of words given a list of bigrams. We chose a decision tree classifier for its simplicity and interpretability.
   
 <br>
